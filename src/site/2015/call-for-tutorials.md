@@ -21,34 +21,34 @@ Among the suggested topics for tutorials are:
 
 * Introductions to functional programming languages. In the past we
   have had introductions to Clojure, Erlang, F#, Haskell, ML, OCaml,
-  Scala, Scheme and others.
+  Scala, Scheme, Agda, Idris and others.
 
 * Applying functional programming in particular areas, including the
   web, high-performance computing, finance.
 
 * Tools and techniques supporting state of the art functional
-  programming.
+  programming. In the past we have had tutorials on QuickCheck, Elm and others.
 
 Tutorial proposals should address the following points:
 
 * Title
 
-* Abstract (about 100 words)
+* Abstract (about 200 words) including
 
-* Tutorial Objectives: by the end of this tutorial you will be able to …
+ - Tutorial Objectives: by the end of this tutorial you will be able to …
 
-* Intended audience: e.g. beginners, those with a working knowledge of X, …
+ - Intended audience: e.g. beginners, those with a working knowledge of X, …
 
-* Speaker Bio: Joe Bloggs is ...
+ - Speaker Bio: Joe Bloggs is ...
 
-* Infrastructure required: For example, will participants need access
+ - Infrastructure required: For example, will participants need access
   to a particular system? Do they need to download anything prior to
   the tutorial? Can they be expected to have this on a laptop, or does
   it need to be provided by the meeting?
 
-* Other minor information which will help us market your tutorial.
+ - Other minor information which will help us market your tutorial.
 
-and should be submitted using the following [talk submission
+Tutorials should be submitted using the following [talk submission
 form](https://easychair.org/conferences/?conf=cufp2015).
 
 If you have any questions, email Thomas Arts: thomas dot arts at
