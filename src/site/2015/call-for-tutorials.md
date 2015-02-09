@@ -35,18 +35,18 @@ Tutorial proposals should address the following points:
 
 * Abstract (about 200 words) including
 
- - Tutorial Objectives: by the end of this tutorial you will be able to …
+    * Tutorial Objectives: by the end of this tutorial you will be able to …
 
- - Intended audience: e.g. beginners, those with a working knowledge of X, …
+    * Intended audience: e.g. beginners, those with a working knowledge of X, …
 
- - Speaker Bio: Joe Bloggs is ...
+    * Speaker Bio: Joe Bloggs is ...
 
- - Infrastructure required: For example, will participants need access
-  to a particular system? Do they need to download anything prior to
-  the tutorial? Can they be expected to have this on a laptop, or does
-  it need to be provided by the meeting?
+    * Infrastructure required: For example, will participants need access
+     to a particular system? Do they need to download anything prior to
+     the tutorial? Can they be expected to have this on a laptop, or does
+     it need to be provided by the meeting?
 
- - Other minor information which will help us market your tutorial.
+    * Other minor information which will help us market your tutorial.
 
 Tutorials should be submitted using the following [talk submission
 form](https://easychair.org/conferences/?conf=cufp2015).
@@ -58,7 +58,7 @@ The 2015 conference is in Vancouver, Canada from September
 3rd-5th. Once again, it is co-located with [ICFP
 2015](http://icfpconference.org/icfp2015/).
 
-CUFP tweets [@cufpconference](https://twitter.com/cufpconference).
+CUFP tweets [\@cufpconference](https://twitter.com/cufpconference).
 
 
 </div>
