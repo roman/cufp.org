@@ -48,6 +48,22 @@ Tutorial proposals should address the following points:
 
     * Other minor information which will help us market your tutorial.
 
+As it is the norm at Scientific Conferences, usually it is expected for 
+tutors to pay tuition fees. That being said, we value tutors time and 
+effort and we want to reward you accordingly. 
+
+For CUFP tutorials, we want speakers to have free access, after all, you already 
+contribute by holding a tutorial. Therefore, we created the following rules:
+
+1) When 5 or more people register for your tutorial, you get admission 
+to CUFP for free (2 days of tutorials, plus workshop day). If your tutorial 
+is, against all odds, not attracting 5 participants, we reserve the right 
+to cancel it.
+
+2) When 10 or more people register for your tutorial, you get a $250 voucher 
+that you can use to register for any of the other ICFP events, 
+including ICFP itself.
+
 Tutorials should be submitted using the following [talk submission
 form](https://easychair.org/conferences/?conf=cufp2015).
 
